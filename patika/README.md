@@ -1,16 +1,15 @@
-# patika
+# Biyoçeşitlilik Uygulaması
 
-A new Flutter project.
+Bu Flutter uygulaması, biyoçeşitlilik üzerine odaklanmış bir mobil uygulamadır. Uygulama, kullanıcıların çevrelerindeki canlı türlerini tanımalarına ve keşfetmelerine yardımcı olur. İşte uygulamanın sağladığı temel özellikler:
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- **Yapay Zeka Destekli Canlı Tanıma:** Uygulama, entegre yapay zeka modeli sayesinde fotoğrafı çekilen canlıların türlerini tanımlar ve detaylı bilgi sunar.
+  
+- **Nesli Tehlike Altında Olan Türler:** Ayrı bir bölümde, nesli tehlike altında olan türlerin popülasyon durumu, tehdit altında olma nedenleri ve koruma stratejileri yer alır.
+  
+- **Arkadaşlarla Keşfedilen Türler:** Kullanıcılar, uygulama içinde arkadaşlarıyla keşfettikleri türleri paylaşabilir ve bu türlerden oluşan bir popülasyon haritası görüntülenebilir.
 
-A few resources to get you started if this is your first Flutter project:
+!!!!!! Uygulama Geliştirilme aşamasında olduğu için şuan sadece görsel olarak tamamlanmıştır.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
